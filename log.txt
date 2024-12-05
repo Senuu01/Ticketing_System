@@ -10386,3 +10386,282 @@ Vendor-1: Waiting to add tickets. Pool is full.
 Customer-1: Removed 6 tickets. Current count: 73
 Customer-1: Customer ID1 purchased 6 tickets. Remaining tickets: 73
 Vendor-1: Waiting to add tickets. Pool is full.
+System started with maximum ticket capacity: 80, minimum threshold: 15
+Vendor-1: Added 50 tickets. Current count: 65
+Vendor-1: Vendor added 50 tickets. Total tickets: 65
+Customer-3: Removed 5 tickets. Current count: 60
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 60
+Customer-2: Removed 5 tickets. Current count: 55
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 55
+Customer-1: Removed 5 tickets. Current count: 50
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 50
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 45
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 45
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 40
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 40
+Customer-2: Removed 5 tickets. Current count: 35
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 35
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 30
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 30
+Vendor-1: Added 50 tickets. Current count: 80
+Vendor-1: Vendor added 50 tickets. Total tickets: 80
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 75
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 75
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 70
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 70
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 65
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 65
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 60
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 60
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 55
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 55
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 50
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 50
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 45
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 45
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 40
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 40
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 35
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 35
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 30
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 30
+Vendor-2: Added 50 tickets. Current count: 80
+Vendor-2: Vendor added 50 tickets. Total tickets: 80
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 75
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 75
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 70
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 70
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 65
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 65
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 60
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 60
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 55
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 55
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 50
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 50
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 45
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 45
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 40
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 40
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 35
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 35
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 30
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 30
+Vendor-1: Added 50 tickets. Current count: 80
+Vendor-1: Vendor added 50 tickets. Total tickets: 80
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 75
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 75
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 70
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 70
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 65
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 65
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 60
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 60
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 55
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 55
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 50
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 50
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 45
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 45
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 40
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 40
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 35
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 35
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 30
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 30
+Vendor-2: Added 50 tickets. Current count: 80
+Vendor-2: Vendor added 50 tickets. Total tickets: 80
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 75
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 75
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 70
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 70
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 65
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 65
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 60
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 60
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 55
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 55
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 50
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 50
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 45
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 45
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 40
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 40
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 35
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 35
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 30
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 30
+Vendor-1: Added 50 tickets. Current count: 80
+Vendor-1: Vendor added 50 tickets. Total tickets: 80
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 75
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 75
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 70
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 70
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 65
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 65
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 60
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 60
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 55
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 55
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 50
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 50
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 45
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 45
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 40
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 40
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 35
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 35
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 30
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 30
+Vendor-2: Added 50 tickets. Current count: 80
+Vendor-2: Vendor added 50 tickets. Total tickets: 80
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 75
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 75
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 70
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 70
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 65
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 65
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 60
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 60
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 55
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 55
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 50
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 50
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 45
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 45
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 40
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 40
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 35
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 35
+Vendor-2: Waiting to add tickets. Pool is full.
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 30
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 30
+Vendor-2: Added 50 tickets. Current count: 80
+Vendor-2: Vendor added 50 tickets. Total tickets: 80
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 75
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 75
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 70
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 70
+Vendor-1: Waiting to add tickets. Pool is full.
+Customer-1: Removed 5 tickets. Current count: 65
+Customer-1: Customer ID1 purchased 5 tickets. Remaining tickets: 65
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-2: Removed 5 tickets. Current count: 60
+Customer-2: Customer ID2 purchased 5 tickets. Remaining tickets: 60
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
+Customer-3: Removed 5 tickets. Current count: 55
+Customer-3: Customer ID3 purchased 5 tickets. Remaining tickets: 55
+Vendor-1: Waiting to add tickets. Pool is full.
+Vendor-2: Waiting to add tickets. Pool is full.
